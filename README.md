@@ -1,4 +1,4 @@
-# Detect_Autistic_Spectrum_Disorder_Cases
+# Detect_Autistic_Spectrum_Disorder_Cases - assignment project
 
 **Level:** Advanced <br/>
 ** Classification Model**<br/>
@@ -7,7 +7,6 @@
 ## Autism Screening Adult Data Set 
 
 ### Detect Autistic Spectrum Disorder (ASD) cases 
-
 
 ---
 ![](79.jpg)
@@ -18,8 +17,6 @@ demographics such as *Age*, *Gender*, *Ethnicity* etc. The screening test includ
 the test takers were given a statement with which they had to agree or disagree. For example, the statement at question A1 is "I often notice small sounds when other do not".
 The test takers' responses to A1 and A10 are coded as binary values (0,1). Once the test taker has answered all 10 questions, his/her status on ASD is determined which 
 is recorded under **Class/ASD** variable. You can encouraged to explore the [ASD Test Mobile App](http://asdtests.com/#)           
-
-
 
 
 ### Data Dictionary 
